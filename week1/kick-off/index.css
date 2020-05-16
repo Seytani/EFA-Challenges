@@ -1,0 +1,30 @@
+h1 {
+    color:lightgreen;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.frame {
+    padding: 0.5em;
+    border: 0.5em solid black;
+    border-radius: 0.5em;
+    background-color: grey;
+    text-align: center;
+}
+
+
+.section {
+    padding: 0.5em;
+    border: 0.5em solid yellow;
+    border-radius: 0.5em;
+    background-color: lightgrey;
+    text-align: center;
+    margin: 0.5em;
+    display: inline-block;
+}
