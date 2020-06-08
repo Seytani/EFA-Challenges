@@ -6,27 +6,27 @@
 // Your function will accept two parameters. One for the starting number and another for the ending number.
 // console.log the final sum of the numbers.
 
-// function sum(n1, n2) {
-//     let sum = 0;
-//     for(let i = n1; i <= n2; i++) {
-//         sum += i;
-//     }
-//     console.log(sum);
-// }
+function sum(n1, n2) {
+    let sum = 0;
+    for(let i = n1; i <= n2; i++) {
+        sum += i;
+    }
+    console.log(sum);
+}
 
-// sum(1, 100);
-// sum(35, 77);
-// sum(234, 567);
+sum(1, 100);
+sum(35, 77);
+sum(234, 567);
 
 /*** Challenge 2 ***/
 
-// let pet = {
-//     animal: 'dragon',
-//     name: 'Rolo',
-//     gender: 'male',
-//     age: 253,
-//     likes: ['sheep', 'burningStuff', 'screeching', 'flying'],
-// }
+let pet = {
+    animal: 'dragon',
+    name: 'Rolo',
+    gender: 'male',
+    age: 253,
+    likes: ['sheep', 'burningStuff', 'screeching', 'flying'],
+}
 
 /*** Challenge 3 ***/
 
