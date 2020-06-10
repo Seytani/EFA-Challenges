@@ -1,0 +1,24 @@
+body {
+    font-family: 'Press Start 2P', cursive; 
+    text-align: center;
+    font-size: larger;
+}
+h1 {
+    font-size: 2em;
+    padding: 2em;
+}
+button {
+    padding: 20px;
+    background-color: teal;
+    border: black 1px solid;
+    border-radius: 10px;
+    position: absolute;
+    left: 75em;
+    top: 50em;
+
+}
+
+img {
+    height: 300px;
+}
+
